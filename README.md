@@ -19,12 +19,14 @@ This project I used data of Seattle Airbnb from Kaggle to analyze the following 
 
 <a name="3"></a>
 ## 3. File Description
-
+Listings.csv: including full descriptions and average review score<br/>
+Reviews.csv:including unique id for each reviewer and detailed comments<br/>
+Calendar.csv: including listing id and the price and availability for that day<br/>
 
 <a name="4"></a>
 ## 4. Result
-You can find my blog post here link[post](https://medium.com/@qitang1226/advices-for-seattle-tour-d3ebbdabb48b)
+You can find my blog post here link [post](https://medium.com/@qitang1226/advices-for-seattle-tour-d3ebbdabb48b)
 
 <a name="5"></a>
 ## 5. Liscensing,Authors,Acknowledgement
-You can find data and other information at Kaggle. Here is the link[Kaggle](https://www.kaggle.com/airbnb/seattle/data)
+You can find data and other information at Kaggle. Here is the link [Kaggle](https://www.kaggle.com/airbnb/seattle/data)
