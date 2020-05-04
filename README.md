@@ -20,9 +20,10 @@ This project I used data of Seattle Airbnb from Kaggle to analyze the following 
 <a name="3"></a>
 ## 3. File Description
 
+
 <a name="4"></a>
 ## 4. Result
-You can find my blog post here
+You can find my blog post here link[post](https://medium.com/@qitang1226/advices-for-seattle-tour-d3ebbdabb48b)
 
 <a name="5"></a>
 ## 5. Liscensing,Authors,Acknowledgement
